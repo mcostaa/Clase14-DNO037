@@ -1,7 +1,7 @@
 # Clase14-DNO037
 
 ## Objetivo General
-### Desarrollar un portafolio web dinámico que presente de una manera interesante mis trabajos y que pueda ser actualizado con nuevos trabajos. Esto con el fin de presentar esto para futuras oportunidades laborales como un buen referente de mis habilidades.
+### Desarrollar un portafolio web dinámico que presente de una manera atractiva mis trabajos y que pueda ser actualizado más adelante con nuevos proyectos. Esto con el fin de presentar esto para futuras oportunidades laborales como un buen referente de mi rango de habilidades.
 
 ## Usuarios
 
