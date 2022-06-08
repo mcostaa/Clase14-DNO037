@@ -86,6 +86,47 @@ Portafolio de Fotografía de Michelle Beatty. Una galeria de fotos y videos toma
 ____________________________________________________________________________________________________________________________________________________________________________
 
 
+## RRE VENTURES
+
+Pagina web de grupo de inversionistas. Altamente Dinamica y capta la atencion del espectador. Cuenta con un portafolio de trabajos, sobre la empresa, industrias donde se trabaja, etc.
+
+![RRE](https://user-images.githubusercontent.com/75643049/172692621-31a8c800-9755-46c8-b2d9-f14cd4ddf70f.png)
+![RRE2](https://user-images.githubusercontent.com/75643049/172692630-d0e0e517-1000-4a85-a45a-36072facf9c2.png)
+
+[RRE VENTURES](https://www.rre.com/)
+
+### Aspectos positivos:
+- Sitio muy dinamico
+- Capta la atención de manera rapida
+- Altamente estilizado
+- Información ordenada y catalogada de manera que se hace legible
+
+### Aspectos negativos:
+- Muy facil distraerse
+- Mucha información
+- Facil perderse dentro del sitio
 
 
+____________________________________________________________________________________________________________________________________________________________________________
 
+
+## ELVINA PRASAD
+
+Portafolio de Diseñadora de Productos Elvina Prasad. Cuenta con información sobre la Diseñadora, su vision y sus proyectos en su pagina inicial.
+
+![EP](https://user-images.githubusercontent.com/75643049/172695912-43f42c63-5181-43d7-ba9f-dca480176c3c.png)
+![Ep1](https://user-images.githubusercontent.com/75643049/172695919-6be74b3b-becd-4979-9adc-fbf62f03c375.png)
+
+[ELVINA PRASAD](https://www.elvinaprasad.com/)
+
+### Aspectos positivos:
+- Llamativa y minimalista
+- Entrega un mensaje del Diseñador
+- Se presenta la identidad del Diseñador
+- Variedad de información en la pagina de inicio.
+- Sitio dinamico.
+
+### Aspectos negativos:
+- No se muestran los proyectos en la pagina de inicio
+- Paleta de colores aburrida
+- Falta de  descripcion basica de los proyectos
