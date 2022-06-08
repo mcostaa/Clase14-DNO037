@@ -24,3 +24,26 @@ Portafolio con scroll que incluye los "mejores trabajos" de este diseñador. Inc
 -Falta de descripcion breve de los proyectos
 -Falta de proceso de diseño en los proyectos
 
+
+
+## WIP ARCHITECTS
+
+Portafolio de trabajo de un grupo de Arquitectos. Tiene un landing page que se carga y te lleva a una seleccion de proyectos y sus fotos respectivas. Funciona en base a scroll principalmente y funciona como una galeria de imagenes
+
+![wip2](https://user-images.githubusercontent.com/75643049/172663393-f3ae40a3-cdc9-43dd-918b-469e8976761c.png)
+![wip](https://user-images.githubusercontent.com/75643049/172663435-555972fa-0a4a-4434-9ef7-499ca32a6ccb.png)
+
+
+[WIP ARCHITECTS](https://www.wip.com.gr/)
+
+### Aspectos positivos:
+-Sitio es interactivo y atractivo
+-Tiene un "landing page" que te da la bienvenida al sitio
+-Cuenta con un modo oscuro y claro
+-Muestra una gran cantidad de proyectos
+
+### Aspectos negativos:
+-Falta de información basica de los proyectos
+-Layout del menu es dificil de navegar
+-Falta de legibilidad sobre donde termina un proyecto y empieza el otro
+-Footer tiene queda un poco desatendido y desordenado
