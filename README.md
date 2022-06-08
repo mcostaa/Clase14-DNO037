@@ -24,7 +24,7 @@ Portafolio con scroll que incluye los "mejores trabajos" de este diseñador. Inc
 -Falta de descripcion breve de los proyectos
 -Falta de proceso de diseño en los proyectos
 
-
+____________________________________________________________________________________________________________________________________________________________________________
 
 ## WIP ARCHITECTS
 
