@@ -1,5 +1,12 @@
 # Clase14-DNO037
 
+## Objetivo General
+### Desarrollar un portafolio web dinámico que presente de una manera interesante mis trabajos y que pueda ser actualizado con nuevos trabajos. Esto con el fin de presentar esto para futuras oportunidades laborales como un buen referente de mis habilidades.
+
+## Usuarios
+
+
+____________________________________________________________________________________________________________________________________________________________________________
 
 ## Hundred Pixels
 
@@ -26,6 +33,8 @@ Portafolio con scroll que incluye los "mejores trabajos" de este diseñador. Inc
 
 ____________________________________________________________________________________________________________________________________________________________________________
 
+
+
 ## WIP ARCHITECTS
 
 Portafolio de trabajo de un grupo de Arquitectos. Tiene un landing page que se carga y te lleva a una seleccion de proyectos y sus fotos respectivas. Funciona en base a scroll principalmente y funciona como una galeria de imagenes
@@ -47,3 +56,36 @@ Portafolio de trabajo de un grupo de Arquitectos. Tiene un landing page que se c
 -Layout del menu es dificil de navegar
 -Falta de legibilidad sobre donde termina un proyecto y empieza el otro
 -Footer tiene queda un poco desatendido y desordenado
+
+
+____________________________________________________________________________________________________________________________________________________________________________
+
+
+## Michelle Beatty
+
+Portafolio de Fotografía de Michelle Beatty. Una galeria de fotos y videos tomadas por ella. Incluye secciones de "Series" de fotografias con una misma tematica.
+
+![MB](https://user-images.githubusercontent.com/75643049/172665271-c8293cd9-6150-45be-8f5e-29a30e55c9cd.png)
+![mb2](https://user-images.githubusercontent.com/75643049/172665325-aafb09b9-3db9-46cb-a428-4b4532a29a11.png)
+
+[Michelle Beatty](https://www.michellebeatty.com/)
+
+### Aspectos positivos:
+-Visualmente interesante y llamativo
+-Compilacion gigantesca de fotos
+-Video en el landing page
+-Mezcla entre videos y fotografias
+
+### Aspectos negativos:
+-Falta de categorización
+-Repetitivo (Casi siempre una misma linea de trabajo)
+-Falta de informacion relacionada a las fotografias
+-Muy comprimido
+
+
+____________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
