@@ -5,7 +5,32 @@
 
 ## Usuarios
 
+### Menos probable
+Quién: Miguel, 60 años. 
 
+Aspectos demográficos: Trabaja en una oficina como ingeniero civil, es padre y esta a punto de retirarse.
+
+Comportamientos: Utiliza internet y el computador pero se encuentra fuera de las tendencias y modas actuales. 
+
+Necesidades y Objetivos: Ve los trabajos de sus hijos con el fin de felicitarlos. 
+
+### Promedio
+Quién: Andrés, 20 años. 
+
+Aspectos demográficos: Estudiante de Diseño. Vive con su familia y no trabaja.
+
+Comportamientos: Utiliza internet y su computador todos los dias. Consume medios sobre moda y diseño. 
+
+Necesidades y Objetivos: Busca referentes de graficos y de portafolios para poder crear su propio portafolio.
+
+### Más probable
+Quién: Andrea, 30 años. 
+
+Aspectos demográficos: Trabaja en una oficina de diseño como gerenta del area. Es madre de familia.
+
+Comportamientos: Se maneja al revez y al derecho con el computador y las redes. Esta al tanto de las ultimas tendencias. 
+
+Necesidades y Objetivos: Busca nuevos diseñadores jovenes para contratar, que tenga habilidades que puedan adaptarse a su equipo de trabajo.
 ___
 
 ## Hundred Pixels
@@ -31,7 +56,7 @@ Portafolio con scroll que incluye los "mejores trabajos" de este diseñador. Inc
 - Falta de descripcion breve de los proyectos
 - Falta de proceso de diseño en los proyectos
 
-____________________________________________________________________________________________________________________________________________________________________________
+___
 
 
 
@@ -58,7 +83,7 @@ Portafolio de trabajo de un grupo de Arquitectos. Tiene un landing page que se c
 - Footer tiene queda un poco desatendido y desordenado
 
 
-____________________________________________________________________________________________________________________________________________________________________________
+___
 
 
 ## Michelle Beatty
@@ -83,7 +108,7 @@ Portafolio de Fotografía de Michelle Beatty. Una galeria de fotos y videos toma
 - Muy comprimido
 
 
-____________________________________________________________________________________________________________________________________________________________________________
+___
 
 
 ## RRE VENTURES
@@ -107,7 +132,7 @@ Pagina web de grupo de inversionistas. Altamente Dinamica y capta la atencion de
 - Facil perderse dentro del sitio
 
 
-____________________________________________________________________________________________________________________________________________________________________________
+___
 
 
 ## ELVINA PRASAD
@@ -130,3 +155,6 @@ Portafolio de Diseñadora de Productos Elvina Prasad. Cuenta con información so
 - No se muestran los proyectos en la pagina de inicio
 - Paleta de colores aburrida
 - Falta de  descripcion basica de los proyectos
+
+
+___
